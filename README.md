@@ -23,8 +23,9 @@ To get started with DSFX-RFFI-Analyzer, follow these steps:
 Dependencies: Install the necessary dependencies. You can find a list in the requirements.txt file.
 Usage: Explore the example notebooks in the examples directory to see how to use DSFX-RFFI-Analyzer for your data analysis tasks.
 
-Contributions: We welcome contributions! If you have suggestions, bug fixes, or new features to add, please submit a pull request
+Contributions: We welcome contributions! If you have suggestions, bug fixes, or new features to add, please submit a pull request.
 
+To acquire the main training file, please send me an email with the subject GitHub DSFX main data request. 
 
 
 Documentation
